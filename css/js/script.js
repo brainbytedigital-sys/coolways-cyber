@@ -1,1 +1,0 @@
-// Coolways Cyber JavaScript
